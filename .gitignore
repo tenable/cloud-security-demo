@@ -1,0 +1,14 @@
+*.pem
+*.key
+*.pub
+*.json
+*.csv
+*.tfstate
+*.backup
+\.DS_Store
+*.state
+.terraform/
+config
+.terraform.lock.hcl
+tflint.out
+*.tfvars
