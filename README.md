@@ -12,7 +12,7 @@ The code in this repository is used for demonstrating Tenable Cloud Security cap
 
 **Code in this repository is not an officially supported Tenable project and is insecure by design. Tenable shall not be liable for any claim or damages arising from or in connection with your use of the code.**
 
-### For more information about Tenable.cs
+### For more information about Tenable Cloud Security
 
 - [Check out our website](https://www.tenable.com/products/tenable-cloud-security)
 - [Follow us on Twitter](https://twitter.com/TenableSecurity)
